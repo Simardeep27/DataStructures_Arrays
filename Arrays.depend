@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614682571 source:c:\users\harsimran singh\desktop\c++\arrays\main.cpp
+	<iostream>
+	<climits>
+	<algorithm>
+
